@@ -1,2 +1,1 @@
-# dl-nano
-Udacity Deep Learning Nanodegree
+Projects for Deep Learning Nanodegree on Udacity 
